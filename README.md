@@ -13,10 +13,10 @@ Me encanta enfrentar nuevos desafíos, aprender cada día y colaborar en proyect
 
 Estoy siempre abierto a nuevas oportunidades, colaboraciones y conversaciones interesantes. ¡Hablemos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tu-usuario/)  
-[![Gmail](https://img.shields.io/badge/Gmail-Contáctame-red?style=for-the-badge&logo=gmail)](mailto:tu-correo-electronico@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kerin-aguilera/485633310)  
+[![Gmail](https://img.shields.io/badge/Gmail-Contáctame-red?style=for-the-badge&logo=gmail)](mailto:kerinaguilera23@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/kerinR432)  
-[![X](https://img.shields.io/badge/X-Sígueme-000000?style=for-the-badge&logo=twitter)](https://x.com/tu-usuario)
+[![X](https://img.shields.io/badge/X-Sígueme-000000?style=for-the-badge&logo=twitter)](https://x.com/Kerin_Aguilera)
 
 
 
@@ -26,10 +26,10 @@ Estoy siempre abierto a nuevas oportunidades, colaboraciones y conversaciones in
 ¡Gracias por visitar mi perfil! Aquí tienes algunos datos en tiempo real:
 
 - 👥 **Seguidores**  
-  [![Seguidores](https://img.shields.io/github/followers/tu-usuario?label=Seguidores&style=social)](https://github.com/kerinR432)
+  [![Seguidores](https://img.shields.io/github/followers/kerinR432?label=Seguidores&style=social)](https://github.com/kerinR432)
 
 - 👁️ **Visitas al perfil**  
-  [![Visitas](https://visitor-badge.glitch.me/badge?page_id=tu-usuario.tu-usuario)](https://github.com/kerinR32)
+  [![Visitas](https://visitor-badge.glitch.me/badge?page_id=kerinR432.kerinR432)](https://github.com/kerinR32)
 
 
 ## 🧠 Conocimientos
