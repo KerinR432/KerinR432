@@ -23,19 +23,23 @@ Estoy siempre abierto a nuevas oportunidades, colaboraciones y conversaciones in
 
 ## 📊 Estadísticas de Perfil
 
+<details>
+  <summary>Haz clic para ver las estadísticas</summary>
+
 ¡Gracias por visitar mi perfil! Aquí tienes algunos datos en tiempo real:
 
 - 👥 **Seguidores**  
   [![Seguidores](https://img.shields.io/github/followers/KerinR432?label=Seguidores&style=social)](https://github.com/KerinR432)
 
 - 👁️ **Visitas al perfil**  
-[![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKerinR32&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitas&edge_flat=false)](https://github.com/KerinR32)
+  [![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKerinR32&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitas&edge_flat=false)](https://github.com/KerinR32)
 
-
-
-
+</details>
 
 ## 🧠 Conocimientos
+
+<details>
+  <summary>Haz clic para ver los conocimientos</summary>
 
 Estas son algunas de las tecnologías y herramientas con las que he trabajado o estoy aprendiendo:
 
@@ -53,6 +57,8 @@ Estas son algunas de las tecnologías y herramientas con las que he trabajado o 
 
 ### 🎨 Diseño y 3D
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+</details>
 
 ## 📈 GitHub Stats
 
