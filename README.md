@@ -11,12 +11,28 @@ Me encanta enfrentar nuevos desafíos, aprender cada día y colaborar en proyect
 
 ## 🤝 Conéctate conmigo
 
-Estoy siempre abierto a nuevas oportunidades, colaboraciones y conversaciones interesantes. ¡Hablemos!
+Estoy siempre abierto a nuevas oportunidades, colaboraciones y conversaciones interesantes.  
+¡Hablemos! 🌿
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kerin-aguilera/485633310)  
-[![Gmail](https://img.shields.io/badge/Gmail-Contáctame-red?style=for-the-badge&logo=gmail)](mailto:kerinaguilera23@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/kerinR432)  
-[![X](https://img.shields.io/badge/X-Sígueme-000000?style=for-the-badge&logo=twitter)](https://x.com/Kerin_Aguilera)
+<p align="center">
+  <a href="https://www.linkedin.com/in/kerin-aguilera/485633310" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-9CA8B3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kerinaguilera23@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Gmail-Contact-F3A6B8?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/kerinR432" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/GitHub-Repo-A3BAC3?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/Kerin_Aguilera" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/X-Follow-C6C7E2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
+  </a>
+</p>
+
+---
+
+¡Gracias por pasar! 🌸 Estoy aquí para lo que necesites. 🙂
+
 
 
 
