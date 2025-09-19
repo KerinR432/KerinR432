@@ -29,7 +29,7 @@ Estoy siempre abierto a nuevas oportunidades, colaboraciones y conversaciones in
   [![Seguidores](https://img.shields.io/github/followers/KerinR432?label=Seguidores&style=social)](https://github.com/KerinR432)
 
 - 👁️ **Visitas al perfil**  
-[![Visitas](https://visitor-badge.glitch.me/badge?page_id=kerinR32.kerinR32)](https://github.com/kerinR32)
+[![Visitas](https://visitor-badge.glitch.me/badge?page_id=kerinR32)](https://github.com/kerinR32)
 
 
 
