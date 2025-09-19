@@ -34,6 +34,7 @@ Estoy siempre abierto a nuevas oportunidades, colaboraciones y conversaciones in
 
 
 
+
 ## 🧠 Conocimientos
 
 Estas son algunas de las tecnologías y herramientas con las que he trabajado o estoy aprendiendo:
