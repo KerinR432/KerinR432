@@ -57,7 +57,7 @@ Estas son algunas de las tecnologías y herramientas con las que he trabajado o 
 [![KerinR432's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kerinR432&show_icons=true&theme=radical&hide_border=true)](https://github.com/kerinR432)
 
 ### 💻 Lenguajes más usados
-<img src="https://camo.githubusercontent.com/da827a0……692f676…" width="600" data-canonical-src="https://stats.hyo.dev/api/github-stats-advanced?login=KerinR432" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/da827a0……692f676…" width="600" ![KerinR432 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=KerinR432) style="max-width: 100%;">
 
 
 ### ¡Gracias por visitar mi perfil!
