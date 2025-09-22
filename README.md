@@ -1,6 +1,9 @@
 
 ## Hola, soy Kerin!
 
+<img src="https://raw.githubusercontent.com/KerinR432/repo/rama/ruta/gif.gif" width="400px" />
+
+
 ## 🙋‍♂️ Acerca de mí
 
 ¡Hola! 👋 Soy un **aprendiz de programación** con muchas ganas de seguir creciendo en el mundo del desarrollo.  
