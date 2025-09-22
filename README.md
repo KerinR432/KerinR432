@@ -1,7 +1,7 @@
 
 ## Hola, soy Kerin!
 
-<img src="https://raw.githubusercontent.com/KerinR432/repo/rama/ruta/gif.gif" width="400px" />
+<img src="https://github.com/KerinR432/ProgramacionEnCasa/blob/main/Funciones/pokemon.gif" width="400px" />
 
 
 ## 🙋‍♂️ Acerca de mí
