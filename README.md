@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=23&pause=1000&color=4F759A&width=435&lines=Hola%2C%F0%9F%91%8B%F0%9F%8F%BC%E2%80%8BSoy+Kerin;Estoy+aprendiendo+a+programar)](https://git.io/typing-svg)
 
-<img src="https://github.com/KerinR432/ProgramacionEnCasa/blob/main/Funciones/pokemon.gif" width="400px" />
+<img src="https://github.com/KerinR432/ProgramacionEnCasa/blob/main/Funciones/pokemon.gif" width="400px"/>
 
 
 ## 🙋‍♂️ Acerca de mí
@@ -18,18 +18,10 @@ Estoy siempre abierto a nuevas oportunidades, colaboraciones y conversaciones in
 ¡Hablemos! 🌿
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kerin-aguilera/485633310" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-9CA8B3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kerinaguilera23@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Gmail-Contact-F3A6B8?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/kerinR432" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/GitHub-Repo-A3BAC3?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://x.com/Kerin_Aguilera" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/X-Follow-C6C7E2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
-  </a>
+  <a href="https://www.linkedin.com/in/kerin-aguilera/485633310" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin: 0 10px;"><img src="https://img.shields.io/badge/LinkedIn-Profile-9CA8B3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kerinaguilera23@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin: 0 10px;"><img src="https://img.shields.io/badge/Gmail-Contact-F3A6B8?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/kerinR432" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin: 0 10px;"><img src="https://img.shields.io/badge/GitHub-Repo-A3BAC3?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://x.com/Kerin_Aguilera" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin: 0 10px;"><img src="https://img.shields.io/badge/X-Follow-C6C7E2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" /></a>
 </p>
 
 ---
