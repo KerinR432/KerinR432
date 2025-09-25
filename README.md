@@ -1,5 +1,5 @@
 
-## Hola, soy Kerin!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=23&pause=1000&color=4F759A&width=435&lines=Hola%2C%F0%9F%91%8B%F0%9F%8F%BC%E2%80%8BSoy+Kerin;Estoy+aprendiendo+a+programar)](https://git.io/typing-svg)
 
 <img src="https://github.com/KerinR432/ProgramacionEnCasa/blob/main/Funciones/pokemon.gif" width="400px" />
 
