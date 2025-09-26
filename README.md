@@ -78,11 +78,17 @@ Estas son algunas de las tecnologías y herramientas con las que he trabajado o 
 
 
 <p align="left">
-  <!-- GitHub Stats con tema personalizado y colores suaves -->
+  <!-- GitHub Stats en modo claro -->
   <a href="https://github.com/kerinR432" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=kerinR432&show_icons=true&hide_border=true&bg_color=F9FAFB&title_color=5C4033&icon_color=8B5CF6&text_color=374151" alt="KerinR432's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kerinR432&show_icons=true&hide_border=true&bg_color=F9FAFB&title_color=5C4033&icon_color=8B5CF6&text_color=374151#gh-light-mode-only" alt="KerinR432's GitHub Stats (Light)" />
+  </a>
+
+  <!-- GitHub Stats en modo oscuro -->
+  <a href="https://github.com/kerinR432" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=kerinR432&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F472B6&text_color=C9D1D9#gh-dark-mode-only" alt="KerinR432's GitHub Stats (Dark)" />
   </a>
 </p>
+
 
 ### 💻 Lenguajes más usados
 <img src="https://stats.dooboo.io/api/github-stats-advanced?login=KerinR432" alt="KerinR432 github-stats" width="550" />
