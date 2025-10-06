@@ -9,7 +9,6 @@
 ¡Hola! 👋 Soy un **aprendiz de programación** con muchas ganas de seguir creciendo en el mundo del desarrollo.  
 Me encanta enfrentar nuevos desafíos, aprender cada día y colaborar en proyectos que me ayuden a mejorar mis habilidades.  
 
-📍 Actualmente estoy en [Madrid, Spain](https://youtu.be/y_iiB54EPEg?si=cnjFsk7_2OzuyA_G) 🇪🇸
 
 
 ## 🤝 Conéctate conmigo
