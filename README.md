@@ -5,7 +5,7 @@
 
 
 ## 🙋‍♂️ Acerca de mí
-
+ <a href="https://github.com/kerinR432" target="_blank" rel="noopener noreferrer">
 ¡Hola! 👋 Soy un **aprendiz de programación** con muchas ganas de seguir creciendo en el mundo del desarrollo.  
 Me encanta enfrentar nuevos desafíos, aprender cada día y colaborar en proyectos que me ayuden a mejorar mis habilidades.  
 
@@ -78,7 +78,7 @@ Estas son algunas de las tecnologías y herramientas con las que he trabajado o 
 
 <p align="left">
   <!-- GitHub Stats en modo claro -->
-  <a href="https://github.com/kerinR432" target="_blank" rel="noopener noreferrer">
+  <a href="https://stats.hyo.dev/stats/KerinR432"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=KerinR432" width="600" /></a>
     <img src="https://github-readme-stats.vercel.app/api?username=kerinR432&show_icons=true&hide_border=true&bg_color=F9FAFB&title_color=5C4033&icon_color=8B5CF6&text_color=374151#gh-light-mode-only" alt="KerinR432's GitHub Stats (Light)" />
   </a>
 
