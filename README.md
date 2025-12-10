@@ -78,11 +78,11 @@ Estas son algunas de las tecnologías y herramientas con las que he trabajado o 
 
 <p align="left">
   <!-- GitHub Stats en modo claro -->
-  <a href="https://stats.hyo.dev/stats/KerinR432"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=KerinR432" width="600" /></a>
+
 
 
 ### 💻 Lenguajes más usados
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=KerinR432" alt="KerinR432 github-stats" width="550" />
+  <a href="https://stats.hyo.dev/stats/KerinR432"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=KerinR432" width="600" /></a>
 <a href="https://stats.hyo.dev/stats/KerinR432"><img src="https://stats.hyo.dev/api/github-trophies?login=KerinR432" width="600" /></a>
 
 
