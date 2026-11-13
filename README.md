@@ -1,171 +1,211 @@
 <div align="center">
-👋 Hola, soy Kerin Aguilera
-Full-Stack Developer · Java & Spring Boot · React · Cloud
-<p> Desarrollo aplicaciones web, diseño APIs y exploro nuevas tecnologías para construir soluciones <strong>claras, escalables y mantenibles</strong>. </p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Backend+%7C+Frontend+%7C+Cloud;Java+%7C+Spring+Boot+%7C+React;Azure+%7C+Docker+%7C+PostgreSQL;Construyendo%2C+aprendiendo+y+subiendo+de+nivel+%F0%9F%8E%AE" alt="Typing SVG" /> </div>
-🧙‍♂️ Sobre mí
 
-Soy Kerin Aguilera, desarrollador Full-Stack con especial interés en el desarrollo backend, las APIs y la arquitectura de aplicaciones.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Kerin+Aguilera;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+clear+and+scalable+solutions" alt="Typing SVG" />
 
-Mi stack principal gira alrededor de Java, Spring Boot, React y TypeScript, aunque también me gusta salir de mi zona de confort y experimentar con nuevas tecnologías.
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </p>
 
-Actualmente estoy enfocado en:
+  <h3>Desarrollo aplicaciones web con enfoque en backend, APIs y experiencias que realmente aportan valor.</h3>
 
-⚙️ Construir aplicaciones Full-Stack con Spring Boot + React.
+</div>
 
-🧩 Diseñar APIs REST claras y mantenibles.
+---
 
-☁️ Profundizar en Cloud, Docker y Azure.
+## 👋 Sobre mí
 
-🗄️ Trabajar con PostgreSQL y Supabase.
+Soy Kerin Aguilera, desarrollador Full-Stack con especial interés en el backend, la arquitectura de aplicaciones y el diseño de APIs claras y mantenibles.
 
-💎 Aprendiendo Ruby on Rails para ampliar mi experiencia backend.
+Mi stack principal gira alrededor de Java, Spring Boot, React y TypeScript, aunque también disfruto explorar nuevas tecnologías y aprender aplicando conceptos en proyectos reales.
 
-🅰️ Explorando Angular y su ecosistema.
+Actualmente me encuentro enfocado en:
 
-📚 Seguir mejorando mis conocimientos de arquitectura y buenas prácticas.
+- ⚙️ Construir aplicaciones Full-Stack con Spring Boot + React
+- 🧩 Diseñar APIs REST robustas, escalables y fáciles de mantener
+- ☁️ Profundizar en Cloud, Docker y Azure
+- 🗄️ Trabajar con PostgreSQL y Supabase
+- 💎 Aprender Ruby on Rails para ampliar mi experiencia backend
+- 🅰️ Explorar Angular y su ecosistema
+- 📚 Mejorar continuamente mi enfoque en arquitectura y buenas prácticas
 
-🎮 Mi filosofía: construir, romper, entender, mejorar y volver a intentarlo.
-Los bugs son simplemente boss fights con stack trace.
+> “Los bugs no son fallos, son desafíos. Y cada stack trace nos enseña algo nuevo.”
 
-🚀 Proyecto actual
-💰 Sistema de Gestión de Precios
+---
 
-Actualmente estoy desarrollando una aplicación Full-Stack orientada a la gestión y consulta de precios, integrando diferentes servicios y APIs externas.
+## 🚀 Proyecto actual
 
-Capa	Tecnología
-🎨 Frontend	React · TypeScript
-⚙️ Backend	Java · Spring Boot
-🗄️ Database	PostgreSQL · Supabase
-🌐 Integraciones	REST APIs
-☁️ Cloud	Azure
-🐳 Entorno	Docker
-🎯 Objetivos
+### Sistema de Gestión de Precios
 
-El proyecto me está permitiendo profundizar especialmente en:
+Estoy desarrollando una aplicación Full-Stack orientada a la gestión y consulta de precios, integrando distintos servicios y APIs externas.
 
-Diseño y arquitectura backend.
+| Capa | Tecnología |
+|---|---|
+| Frontend | React · TypeScript |
+| Backend | Java · Spring Boot |
+| Base de datos | PostgreSQL · Supabase |
+| Integraciones | REST APIs |
+| Cloud | Azure |
+| Entorno | Docker |
 
-Desarrollo de APIs REST.
+### Objetivos del proyecto
 
-Persistencia y modelado de datos.
+- Diseñar y mejorar la arquitectura backend
+- Crear APIs REST limpias y bien estructuradas
+- Modelar y persistir datos de forma eficiente
+- Integrar múltiples servicios externos
+- Gestionar autenticación y usuarios
+- Aplicar containerización con Docker
+- Desplegar soluciones en la nube
+- Mantener un código organizado, escalable y mantenible
 
-Integración entre diferentes servicios.
+---
 
-Autenticación y gestión de usuarios.
+## 🛠️ Stack tecnológico
 
-Containerización con Docker.
+### Lenguajes
 
-Despliegue y servicios cloud.
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,ruby" alt="Languages" />
+</p>
 
-Organización y mantenibilidad del código.
+### Backend & APIs
 
-🏗️ Build → Learn → Refactor → Repeat
-
-🛠️ Tech Stack
-💻 Lenguajes
-<p> <img src="https://skillicons.dev/icons?i=java,js,ts,python,ruby" /> </p>
-⚙️ Backend & APIs
-<p> <img src="https://skillicons.dev/icons?i=spring,rails" /> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,rails" alt="Backend" />
+</p>
 
 Spring Boot · Ruby on Rails · REST APIs
 
-🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind" /> </p>
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind" alt="Frontend" />
+</p>
 
 React · TypeScript · Angular
 
-🗄️ Databases & Services
-<p> <img src="https://skillicons.dev/icons?i=postgres,supabase" /> </p>
-☁️ Cloud & DevOps
-<p> <img src="https://skillicons.dev/icons?i=azure,docker,git,github" /> </p>
-📚 Actualmente aprendiendo
-Ruby on Rails     ███████░░░░░░░░  En progreso
-Angular           █████░░░░░░░░░░  Explorando
-Cloud / Azure     ███████░░░░░░░░  Profundizando
-Arquitectura      ███████░░░░░░░░  Profundizando
+### Bases de datos y servicios
 
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase" alt="Databases" />
+</p>
 
-Mi objetivo no es simplemente acumular tecnologías, sino entender cuándo utilizarlas, por qué utilizarlas y cómo integrarlas correctamente en un proyecto real.
+### Cloud & DevOps
 
-🧠 Cómo trabajo
-<table> <tr> <td width="50%" valign="top">
-🧩 Problem Solver
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github" alt="Cloud and DevOps" />
+</p>
 
-Antes de escribir código, intento entender bien el problema.
+---
 
-Busco soluciones que sean claras, mantenibles y razonablemente eficientes, evitando añadir complejidad innecesaria.
+## 📚 Actualmente aprendiendo
 
-</td> <td width="50%" valign="top">
-📚 Continuous Learning
+- Ruby on Rails — En progreso
+- Angular — Explorando
+- Cloud / Azure — Profundizando
+- Arquitectura — Profundizando
 
-La tecnología cambia constantemente.
+---
 
-Por eso intento mantener una mentalidad de aprendizaje continuo y utilizar cada proyecto como una oportunidad para mejorar.
+## 🧠 Cómo trabajo
 
-</td> </tr> <tr> <td width="50%" valign="top">
-🏗️ Build & Improve
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 Problem Solver</h3>
+      Antes de escribir código, me esfuerzo por entender bien el problema, identificar la causa real y buscar soluciones que sean claras, sostenibles y eficientes.
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Continuous Learning</h3>
+      La tecnología evoluciona constantemente. Por eso trato cada proyecto como una oportunidad para aprender, reforzar conceptos y mejorar mi manera de resolver problemas.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ Build & Improve</h3>
+      Prefiero aprender construyendo cosas reales, iterando, corrigiendo errores y refactorizando para llegar a soluciones más sólidas.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 Gamer Mindset</h3>
+      Cada bug es como un boss fight: una prueba de paciencia, lógica y estrategia. Y cuando aparece el stack trace, siempre hay una forma de ganar la partida.
+    </td>
+  </tr>
+</table>
 
-Prefiero aprender construyendo cosas reales.
+---
 
-Cada proyecto es una oportunidad para experimentar, equivocarme, refactorizar y descubrir mejores formas de hacer las cosas.
+## ⚔️ Mis últimas misiones
 
-</td> <td width="50%" valign="top">
-🎮 Gamer Mindset
+| Fecha | Misión | Proyecto |
+|---|---|---|
+| 2026-04-20 | 🔧 Más cambios | QuestHub |
+| 2026-04-20 | 📧 Servicio de envío de correos | QuestHub |
+| 2026-04-20 | 👤 Usuarios en backend | QuestHub |
+| 2026-04-06 | 📋 Detalles | QuestHub |
+| 2026-04-06 | ✨ Mejoras en Frontend | QuestHub |
 
-Los bugs son básicamente boss fights con stack trace.
+> Quest log: cada commit es un pequeño paso hacia el siguiente nivel.
 
-La diferencia es que aquí el botón de retry es:
+---
 
-git commit
+## 📊 GitHub Stats
 
-</td> </tr> </table>
-⚔️ Algunas de mis últimas misiones
-Fecha	Misión	Proyecto
-2026-04-20	🔧 Más cambios	QuestHub
-2026-04-20	📧 Servicio de envío de correos	QuestHub
-2026-04-20	👤 Usuarios en backend	QuestHub
-2026-04-06	📋 Detalles	QuestHub
-2026-04-06	✨ Mejoras en Frontend	QuestHub
-
-🗺️ Quest log: cada commit es un pequeño paso hacia el siguiente nivel.
-
-📊 GitHub Stats
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=KerinR432&show_icons=true&theme=tokyonight&hide_border=true&locale=es&rank_icon=github" /> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KerinR432&theme=tokyonight&hide_border=true&stroke=7C3AED" />
-
-<br/><br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerinR432&layout=compact&theme=tokyonight&hide_border=true&locale=es" /> </div>
-🎯 Próximos niveles
-[x] Java
-[x] Spring Boot
-[x] React
-[x] TypeScript
-[x] REST APIs
-[x] PostgreSQL
-[x] Docker
-[ ] Azure — profundizar
-[ ] Ruby on Rails — aprender
-[ ] Angular — explorar
-[ ] Arquitectura avanzada
-[ ] Más proyectos
-
-
-Every level starts with git init.
-
-🤝 Conectemos
-
-Estoy abierto a colaboraciones, proyectos interesantes y oportunidades que me permitan seguir creciendo como desarrollador y aportar mis conocimientos.
-
-<div align="center"> <a href="https://www.linkedin.com/in/kerin-aguilera-485633310/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:kerinaguilera23@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://x.com/Kerin_Aguilera"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="https://github.com/KerinR432"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=KerinR432&style=flat-square&color=7C3AED&label=Visitas+al+perfil" />
-
-<br/><br/>
-
-⚔️ while(alive) { code(); learn(); repeat(); }
-
-<sub>May your code be clean and your deployments smooth. 🚀</sub>
-
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KerinR432&show_icons=true&theme=tokyonight&hide_border=true&locale=es&rank_icon=github" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerinR432&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Top Languages" />
 </div>
+
+---
+
+## 🎯 Próximos niveles
+
+- [x] Java
+- [x] Spring Boot
+- [x] React
+- [x] TypeScript
+- [x] REST APIs
+- [x] PostgreSQL
+- [x] Docker
+- [ ] Azure — profundizar
+- [ ] Ruby on Rails — aprender
+- [ ] Angular — explorar
+- [ ] Arquitectura avanzada
+- [ ] Más proyectos
+
+Cada nivel empieza con `git init`.
+
+---
+
+## 🤝 Conectemos
+
+Estoy abierto a colaboraciones, proyectos interesantes y oportunidades que me permitan seguir creciendo como desarrollador y aportar valor con mi conocimiento.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kerin-aguilera-485633310/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kerinaguilera.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KerinR432&style=flat-square&color=7C3AED&label=Visitas+al+perfil" alt="Profile Views" />
+</div>
+
+<br/>
+
+<p align="center">
+  <strong>while(alive) { code(); learn(); repeat(); }</strong>
+</p>
+
+<p align="center">
+  <sub>May your code be clean and your deployments smooth. 🚀</sub>
+</p>
