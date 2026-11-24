@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Kerin+Aguilera;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+clear+and+scalable+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Kerin+Aguilera;Programador+y+fan+de+la+inform%C3%A1tica;Java+%7C+Spring+Boot+%7C+React;Aprendiendo%2C+construyendo+y+mejorando" alt="Typing SVG" />
 
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -19,21 +19,17 @@
 
 ## 👋 Sobre mí
 
-Soy Kerin Aguilera, desarrollador Full-Stack con especial interés en el backend, la arquitectura de aplicaciones y el diseño de APIs claras y mantenibles.
+Soy Kerin, un chico al que le gusta programar y la informática en general. Me centro sobre todo en el backend y en diseñar APIs claras, pero también disfruto montar el frontend y ver cómo todo encaja.
 
-Mi stack principal gira alrededor de Java, Spring Boot, React y TypeScript, aunque también disfruto explorar nuevas tecnologías y aprender aplicando conceptos en proyectos reales.
+Mi stack principal gira alrededor de **Java, Spring Boot, React y TypeScript**. Y como siempre hay algo nuevo que aprender, ahora mismo estoy explorando Ruby on Rails y Angular.
 
-Actualmente me encuentro enfocado en:
+- ⚙️ Construyo apps Full-Stack con Spring Boot + React
+- 🧩 Diseño APIs REST que sean fáciles de mantener
+- ☁️ Me interesa el Cloud, Docker y Azure
+- 🗄️ Trabajo con PostgreSQL y Supabase
+- 📚 Mejoro un poco cada día
 
-- ⚙️ Construir aplicaciones Full-Stack con Spring Boot + React
-- 🧩 Diseñar APIs REST robustas, escalables y fáciles de mantener
-- ☁️ Profundizar en Cloud, Docker y Azure
-- 🗄️ Trabajar con PostgreSQL y Supabase
-- 💎 Aprender Ruby on Rails para ampliar mi experiencia backend
-- 🅰️ Explorar Angular y su ecosistema
-- 📚 Mejorar continuamente mi enfoque en arquitectura y buenas prácticas
-
-> “Los bugs no son fallos, son desafíos. Y cada stack trace nos enseña algo nuevo.”
+> "Los bugs no son fallos, son desafíos. Y cada stack trace nos enseña algo nuevo."
 
 ---
 
@@ -117,39 +113,33 @@ React · TypeScript · Angular
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧩 Problem Solver</h3>
-      Antes de escribir código, me esfuerzo por entender bien el problema, identificar la causa real y buscar soluciones que sean claras, sostenibles y eficientes.
+      <h3>🧩 Entender antes de codear</h3>
+      Primero entiendo el problema y su causa real, y luego busco soluciones claras y sostenibles.
     </td>
     <td width="50%" valign="top">
-      <h3>📚 Continuous Learning</h3>
-      La tecnología evoluciona constantemente. Por eso trato cada proyecto como una oportunidad para aprender, reforzar conceptos y mejorar mi manera de resolver problemas.
+      <h3>📚 Aprender haciendo</h3>
+      Cada proyecto es una excusa para aprender algo nuevo y mejorar mi forma de resolver problemas.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏗️ Build & Improve</h3>
-      Prefiero aprender construyendo cosas reales, iterando, corrigiendo errores y refactorizando para llegar a soluciones más sólidas.
+      <h3>🏗️ Iterar y mejorar</h3>
+      Construyo, me equivoco, refactorizo y dejo el código mejor de lo que estaba.
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 Gamer Mindset</h3>
-      Cada bug es como un boss fight: una prueba de paciencia, lógica y estrategia. Y cuando aparece el stack trace, siempre hay una forma de ganar la partida.
+      <h3>🎮 Mentalidad gamer</h3>
+      Cada bug es un boss fight: paciencia, lógica y estrategia. El stack trace siempre da la pista.
     </td>
   </tr>
 </table>
 
 ---
 
-## ⚔️ Mis últimas misiones
+## 📈 Actividad en GitHub
 
-| Fecha | Misión | Proyecto |
-|---|---|---|
-| 2026-04-20 | 🔧 Más cambios | QuestHub |
-| 2026-04-20 | 📧 Servicio de envío de correos | QuestHub |
-| 2026-04-20 | 👤 Usuarios en backend | QuestHub |
-| 2026-04-06 | 📋 Detalles | QuestHub |
-| 2026-04-06 | ✨ Mejoras en Frontend | QuestHub |
-
-> Quest log: cada commit es un pequeño paso hacia el siguiente nivel.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KerinR432&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
 
 ---
 
@@ -158,6 +148,10 @@ React · TypeScript · Angular
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=KerinR432&show_icons=true&theme=tokyonight&hide_border=true&locale=es&rank_icon=github" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerinR432&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=KerinR432&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
